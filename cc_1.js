@@ -36,3 +36,13 @@ console.log(accountBalance)
 
 accountBalance %= 11.00
 console.log(accountBalance)
+
+let employeeScore1 = 20
+let employeeScore2 = 10
+
+console.log(employeeScore1 > employeeScore2);
+console.log(employeeScore1 < employeeScore2);
+console.log(employeeScore1 >= employeeScore2);
+console.log(employeeScore1 <= employeeScore2);
+console.log(employeeScore1 === employeeScore2);
+console.log(employeeScore1 !== employeeScore2);
