@@ -19,4 +19,4 @@ const productDetails ={
          inStock: 10,
 }
 
-console. log(products, productDetails);
+console.log(products, productDetails);
