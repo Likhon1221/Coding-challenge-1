@@ -9,8 +9,7 @@ console.log(employeeID, typeof(employeeID));
 console.log(isActive, typeof(isActive));
 
 
-
-//Task 2: Compound Data Types
+// Task 2: Compound Data Types
 
 let products = ["Desktop", "Phone", "Laptop"];
 const productDetails ={
@@ -22,6 +21,7 @@ const productDetails ={
 console.log(products, productDetails);
 
 // Task 3: Assignment Operators
+
 let accountBalance = 10000.00
 console.log(accountBalance);
 
@@ -46,3 +46,12 @@ console.log(employeeScore1 >= employeeScore2);
 console.log(employeeScore1 <= employeeScore2);
 console.log(employeeScore1 === employeeScore2);
 console.log(employeeScore1 !== employeeScore2);
+
+// Task 5: Logical Operators
+
+let hasKeyCard = true
+let hasPermission = false
+
+console.log(hasKeyCard && hasPermission);
+console.log(hasKeyCard || hasPermission);
+console.log(!hasKeyCard);
