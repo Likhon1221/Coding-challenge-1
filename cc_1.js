@@ -16,7 +16,7 @@ let products = ["Desktop", "Phone", "Laptop"];
 const productDetails ={
          name: products,
          price: 1000.00,
-         inStock: 10,
+         inStock: 10.00,
 }
 
 console.log(products, productDetails);
